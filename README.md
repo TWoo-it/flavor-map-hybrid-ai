@@ -63,7 +63,7 @@ streamlit run app.py
 ```
 **3. 외부 네트워크망 접속 (선택사항)**
 ```bash
-ngrok http 8501
+./ngrok http 8501
 ```
 
 본 프로젝트는 학습 및 포트폴리오 목적으로 제작되었습니다.

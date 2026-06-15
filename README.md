@@ -57,14 +57,6 @@ cd C:\cpp-local-llm-server
 .\build\bin\Debug\llm_server.exe -m models\Meta-Llama-3-8B-Instruct.Q4_K_M.gguf --port 8080
 ```
 **2. Python 프론트엔드 가동 (의존성 설치 및 실행)**
-Flavor Map 프로젝트 폴더에서 실행합니다.
-
-Contact
-Author: 김태우
-
-Email: kimha100402@gmail.com
-
-GitHub: https://github.com/TWoo-it
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
@@ -73,3 +65,12 @@ streamlit run app.py
 ```bash
 ngrok http 8501
 ```
+
+본 프로젝트는 학습 및 포트폴리오 목적으로 제작되었습니다.
+
+## Contact
+Author: 김태우
+
+Email: kimha100402@gmail.com
+
+GitHub: https://github.com/TWoo-it

@@ -58,6 +58,13 @@ cd C:\cpp-local-llm-server
 ```
 **2. Python 프론트엔드 가동 (의존성 설치 및 실행)**
 Flavor Map 프로젝트 폴더에서 실행합니다.
+
+Contact
+Author: 김태우
+
+Email: kimha100402@gmail.com
+
+GitHub: https://github.com/TWoo-it
 ```bash
 pip install -r requirements.txt
 streamlit run app.py

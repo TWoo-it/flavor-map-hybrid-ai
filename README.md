@@ -11,7 +11,9 @@
 특히 클라우드 API에 의존하지 않고, **로컬 환경(내 컴퓨터)에서 C++ 기반의 Llama 3 모델을 직접 구동**하여 개인화된 소믈리에 테이스팅 노트를 실시간으로 생성하는 **하이브리드 MSA(Microservices Architecture)**를 구현했습니다.
 
 ## 시연 화면 (Demo)
-> *사용자의 취향을 반영한 거리지수 시각화 및 실시간 번역된 AI 소믈리에 추천 화면*
+<img width="959" height="412" alt="12" src="https://github.com/user-attachments/assets/941e0dfb-22b7-4b5b-ac07-784f5f23b720" />
+<img width="958" height="416" alt="11" src="https://github.com/user-attachments/assets/2c58ca2d-1446-4ef3-ba47-16f966dd9213" />
+
 
 ## 핵심 기능 (Key Features)
 1. **Taste Vector 매칭 엔진:** 1~5점 척도의 사용자 취향 데이터를 4차원 벡터로 변환하여 DB와의 거리지수를 계산, 최적의 페어링 도출.
